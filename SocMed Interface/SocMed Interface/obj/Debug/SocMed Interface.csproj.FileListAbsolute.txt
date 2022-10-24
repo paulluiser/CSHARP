@@ -1,0 +1,11 @@
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\bin\Debug\SocMed Interface.exe.config
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\bin\Debug\SocMed Interface.exe
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\bin\Debug\SocMed Interface.pdb
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.csproj.AssemblyReference.cache
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed_Interface.MainPanel.resources
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed_Interface.Properties.Resources.resources
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.csproj.GenerateResource.cache
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.csproj.CoreCompileInputs.cache
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.exe
+C:\Users\Paul Vasquez\source\repos\SocMed Interface\SocMed Interface\obj\Debug\SocMed Interface.pdb
